@@ -1,3 +1,4 @@
+#without UI
 import requests
 from urllib.parse import urlparse
 import ssl
