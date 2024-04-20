@@ -1,0 +1,11 @@
+contextlib
+requests
+ssl
+socket
+dns.resolver
+datetime
+re
+whois
+ipaddress
+PySimpleGUI
+urllib.parse
